@@ -39,7 +39,7 @@ Estudante cursando Engenharia da Computação na [UFBA](https://ufba.br/) em Sal
 
 <div style="text-align: center;" align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmendes96&layout=compact&langs_count=6&title_color=fcd914&hide=assembly,tcl,verilog,vhdl,c,cmake,handlebars,systemverilog,batchfile,stata,swift,makefile,jupyter%20notebook&text_color=fff&theme=transparent&border_color=fffbe6&bg_color=000)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosmendes96&layout=compact&langs_count=6&title_color=fcd914&hide=assembly,tcl,verilog,vhdl,cmake,handlebars,systemverilog,batchfile,stata,swift,makefile%20notebook&text_color=fff&theme=transparent&border_color=fffbe6&bg_color=000)
 
 </div>
 
