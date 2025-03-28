@@ -20,6 +20,8 @@ Estudante cursando Engenharia da Computação na [UFBA](https://ufba.br/) em Sal
     <p>
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Skitch-Learn?style=flat-square&logo=Skitch-Learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tensor-Flow?style=flat-square&logo=Tensor-Flow&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
@@ -51,11 +53,6 @@ Estudante cursando Engenharia da Computação na [UFBA](https://ufba.br/) em Sal
 
 <h3>⚡Projetos⚡️</h3><br/>
 <p>
-  🧔 Moi c'est <bold>Stan</bold>. 25 ans, barbu et un amateur de code et de 🍺.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
 </p>
 <p>
 
@@ -64,8 +61,6 @@ Estudante cursando Engenharia da Computação na [UFBA](https://ufba.br/) em Sal
 
 <details>
  
-
-
 
  Last Updated on 26/03/2025 00:08:01 UTC
 <!--END_SECTION:waka-->
